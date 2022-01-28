@@ -2260,10 +2260,10 @@ body {
     position: fixed;
     opacity: .95;
     transform: translateZ(0);
-    top: -55%!important;
-    left: -55%!important;
-    width: 210%!important;
-    height: 210%!important
+    top: -50%!important;
+    left: 0%!important;
+    width: 100%!important;
+    height: 200%!important;
 }
 
 .iphone .page-background[data-v-807ec706] {
